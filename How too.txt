@@ -1,0 +1,6 @@
+drag and drop these into vrchat folder
+run injector as admin. disable anti virus 
+downlaod latest https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 
+exclude injector in windows anti virus 
+lately downloading visual studio and download the c++ desktop shit works here download to visual studio-https://visualstudio.microsoft.com/
+anti cheat just change vrcloader fixes my issue 
